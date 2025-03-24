@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Welcome to my Personal Website
+Currently building things out but you are welcome to check the About page for a 
+quick summary about me

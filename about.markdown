@@ -17,7 +17,7 @@ In hopes of becoming a self taught Pentester and acquiring employment in Pentest
 
 You can see my HackTheBox Academy learning progression using the STUDENT-ID with their API. 
 
-**HTB-63C60826C3
+**HTB-63C60826C3**
 
 As of March2025 I have also started additional training using TryHackMe
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=293317" style='border:none;'></iframe>
