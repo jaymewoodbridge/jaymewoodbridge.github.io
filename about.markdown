@@ -19,14 +19,14 @@ You can see my HackTheBox Academy learning progression using the STUDENT-ID with
 
 **HTB-63C60826C3**
 
-As of March2025 I have also started additional training using TryHackMe
+As of March 2025 I have also started additional training using TryHackMe
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=293317" style='border:none;'></iframe>
 
 ## 3D Artist // Project Director
 
-I run the VR Rave group [REYOV]("https://reyov.net") on VRCHAT as Director and Environmental Art
-Im also a part of a team SNR Labs where our work has been shown at the [Venice Film Festival](https://www.labiennale.org/en/cinema/2024/venice-immersive/snr-labs-test-facility") with 
-[IMDB Credit]("https://www.imdb.com/title/tt32997352/fullcredits/")
+I run the VR Rave group <a href="https://reyov.net">REYOV</a> on VRCHAT as Director and Environmental Art
+Im also a part of a team SNR Labs where our work has been shown at the <a href="https://www.labiennale.org/en/cinema/2024/venice-immersive/snr-labs-test-facility">Venice Film Festival </a>with <a href="https://www.imdb.com/title/tt32997352/fullcredits/"> 
+[IMDB Credit] </a>
 
 The project has taught me how to manage a team and develop a project in a AGILE workflow and git/gluon setup using UnityVCS to manage the Unity Project
 between other developers. I have also as a hobby developed my skill as a 3d artist during the pandemic and have helped to develop in small indie game projects
