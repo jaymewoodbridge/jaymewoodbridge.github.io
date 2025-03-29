@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-### My name is Jayme Woodbrige (BabyJack)
+# My name is Jayme Woodbrige (BabyJack)
 
-## ITOT Specialist / SW Engineer / CyberSecurity
+## ITOT Specialist | SW Engineer | CyberSecurity
 
 Hello and welcome to my blog, online my userhandle is BabyJack
 I'm a ITOT Specialist and SW Developer in the PNW for 10+ Years
@@ -15,10 +15,15 @@ In hopes of becoming a self taught Pentester and acquiring employment in Pentest
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="734cc69a-1288-46dd-881e-2480c2f84a93" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-You can see my HackTheBox Academy learning progression using the STUDENT-ID with their API. 
 
+### *HTB Achievements*
+<a href="https://academy.hackthebox.com/achievement/33997/path/400"> SOC Analyst Prerequisites Path </a>
+
+You can see my HackTheBox Academy learning progression using the STUDENT-ID with their API. 
 **HTB-63C60826C3**
 
+
+### *TryHackMe Achievements*
 As of March 2025 I have also started additional training using TryHackMe
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=293317" style='border:none;'></iframe>
 
