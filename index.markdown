@@ -5,7 +5,8 @@
 layout: home
 ---
 
-Welcome to my Personal Website
 Currently building things out but you are welcome to check the <a class="page-link" href="/about/">About</a> page for a 
 quick summary about me
+
+
 
