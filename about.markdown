@@ -10,8 +10,7 @@ permalink: /about/
 
 Hello and welcome to my blog, online my userhandle is BabyJack
 I'm a ITOT Specialist and SW Developer in the PNW for 10+ Years
-Recently passing my COMPTIA Security+ certification exam I am currently starting my journey in CTF and studying for the COMPTIA Pentest+ and beyond
-In hopes of becoming a self taught Pentester and acquiring employment in Pentesting or CyberSecurity Engineering
+Finally pursuing my path to
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="734cc69a-1288-46dd-881e-2480c2f84a93" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
@@ -37,3 +36,4 @@ The project has taught me how to manage a team and develop a project in a AGILE 
 between other developers. I have also as a hobby developed my skill as a 3d artist during the pandemic and have helped to develop in small indie game projects
 
 Recently I have also spent time learning TouchDesigner to better understand shader workflows for Generative Visual Art
+Its been a great opening into understand how Shaders are generally programmed and backed up my previous knowledge of learning GLSL
