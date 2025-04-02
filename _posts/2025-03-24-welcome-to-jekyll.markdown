@@ -15,7 +15,7 @@ to where I can choose the tool and the arguments from terminal via sys.args inpu
 
 Tools available include sub-domain enumeration, directory enumeration, portscanning, file downloading and more.
 After creating a decent structure for terminal use I will most likely include more tools and methodology 
-as I plan to use this for my future HTB Boxes and Bug
+as I plan to use this for my future HTB Boxes and Bug Bounty Hunts
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

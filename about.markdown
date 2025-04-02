@@ -19,12 +19,17 @@ Finally pursuing my path to
 <a href="https://academy.hackthebox.com/achievement/33997/path/400"> SOC Analyst Prerequisites Path </a>
 
 You can see my HackTheBox Academy learning progression using the STUDENT-ID with their API. 
+
 **HTB-63C60826C3**
 
 
 ### *TryHackMe Achievements*
 As of March 2025 I have also started additional training using TryHackMe
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=293317" style='border:none;'></iframe>
+
+### *TryHackMe Certificates*
+
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-8UO8FTQCA9.pdf"> Pre Security </a>
 
 ## 3D Artist // Project Director
 
