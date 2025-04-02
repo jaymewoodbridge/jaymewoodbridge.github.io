@@ -4,13 +4,14 @@ title: About
 permalink: /about/
 ---
 
-# My name is Jayme Woodbrige (BabyJack)
+# My name is Jayme Woodbrige 
 
 ## ITOT Specialist | SW Engineer | CyberSecurity
 
 Hello and welcome to my blog, online my userhandle is BabyJack
-I'm a ITOT Specialist and SW Developer in the PNW for 10+ Years
-Finally pursuing my path to
+I'm a ITOT Specialist and SW Developer in the PNW for 10+ Years 
+and a proffesional SW Engineer for 2.5 Years
+Finally pursuing my path for Cybersecurity!
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="734cc69a-1288-46dd-881e-2480c2f84a93" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
