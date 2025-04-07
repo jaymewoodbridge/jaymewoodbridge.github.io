@@ -31,6 +31,7 @@ As of March 2025 I have also started additional training using TryHackMe
 ### *TryHackMe Certificates*
 
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-8UO8FTQCA9.pdf"> Pre Security </a>
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-22UZZ9SUQ3.pdf"> Pentest+ </a>
 
 ## 3D Artist // Project Director
 
